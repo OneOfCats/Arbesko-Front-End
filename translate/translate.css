@@ -1,0 +1,45 @@
+.topbar .bootstrap-switch {
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.topbar li p {
+	color: #fff;
+	font-size: 12px;
+	height: 40px;
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+}
+
+.breadcrumbs .input-group {
+	margin-top: 17px;
+}
+
+.result {
+    margin-top: 15px;
+}
+
+.result textarea {
+    border-color: #ddd;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    padding: 15px;
+    width: 100%;
+}
+
+.result .lang img, .input-group-btn img {
+	margin-right: 10px;
+}
+
+.result .remove {
+	margin-right: -2px;
+}
+
+.result .remove a:hover {
+	background-color: #c9302c;
+}
+
+.save {
+	margin-top: 25px;
+}
