@@ -1,6 +1,14 @@
+a {
+	cursor: pointer;
+}
+
 .topbar .bootstrap-switch {
 	margin-top: 5px;
 	margin-right: 10px;
+}
+
+.topbar{
+	padding: 10px 0;
 }
 
 .topbar li p {
@@ -12,12 +20,16 @@
 	padding: 0;
 }
 
+.topbar{
+	background: #0049a7;
+}
+
 .breadcrumbs .input-group {
 	margin-top: 17px;
 }
 
 .result {
-    margin-top: 15px;
+    margin: 20px 0px;
 }
 
 .result textarea {
@@ -40,6 +52,6 @@
 	background-color: #c9302c;
 }
 
-.save {
-	margin-top: 25px;
+#debug{
+	display: none;
 }

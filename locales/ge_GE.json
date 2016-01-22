@@ -1,0 +1,55 @@
+[
+    {
+        "msgid":"",
+        "msgstr":"Project-Id-Version: Arbesko\\nReport-Msgid-Bugs-To: \\nPOT-Creation-Date: 2014-02-08 17:30-0500\\nPO-Revision-Date: \\nLast-Translator: Michael Whalen \u003cmichael@whalesalad.com\u003e\\nLanguage-Team: Arbesko \u003cmichael@whalesalad.com\u003e\\nLanguage: sv_SE\\nMIME-Version: 1.0\\nContent-Type: text/plain; charset=UTF-8\\nContent-Transfer-Encoding: 8bit\\nX-Poedit-SourceCharset: utf-8\\nX-Poedit-KeywordsList: __;_e\\nX-Poedit-Basepath: .\\nPlural-Forms: nplurals=2; plural=n != 1;\\nX-Generator: Poedit 1.6.4\\nX-Poedit-SearchPath-0: /Users/michael/Sites/arbesko/wp_arbesko\\n"
+    },
+    {
+        "msgid":"Not Found",
+        "msgstr":"GERMAN",
+        "comment":"#: /Users/michael/Sites/arbesko/wp_arbesko/404.php:7\n"
+    },
+    {
+        "msgid":"Tips on Shoe Care",
+        "msgstr":"Tips på skovård"
+    },
+    {
+        "msgid":"Find shoes with %s",
+        "msgstr":"Sök skor med %s"
+    },
+    {
+        "msgid":"World class Swedish safety \u0026amp; occupational footwear",
+        "msgstr":"Svenska skydds- \u0026amp; yrkesskor i världsklass"
+    },
+    {
+        "msgid":"Find products",
+        "msgstr":"Sök produkter"
+    },
+    {
+        "msgid":"Store locator",
+        "msgstr":"Hitta butik"
+    },
+    {
+        "msgid":"asks the following question",
+        "msgstr":"ställde en fråga"
+    },
+    {
+        "msgid":"asked a question",
+        "msgstr":"ställde en fråga"
+    },
+    {
+        "msgid":"Features of %s",
+        "msgstr":"Egenskaper %s"
+    },
+    {
+        "msgid":"Overview",
+        "msgstr":"Överblick"
+    },
+    {
+        "msgid":"With this PDF you can find managers",
+        "msgstr":"Via denna PDF hittar du våra distriktschefer/säljare i Sverige. "
+    },
+    {
+        "msgid":"You can easily see which regional manager is responsible for your district",
+        "msgstr":"Du kan enkelt se vilken säljare som ansvarar för just ditt distrikt och dennes kontaktuppgifter."
+    }
+]

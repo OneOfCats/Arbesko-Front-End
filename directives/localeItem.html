@@ -1,0 +1,8 @@
+<ul class="nav nav-tabs">
+  <li ng:class="{true:'active'}[$index==active]" ng-repeat="(language, translation) in data"><a data-toggle="tab" ng-href="#{{ind}}{{language}}" class="lang"><img src="img/flags/{{language}}.png">{{language == 'msgid' ? 'En' : language}}</a></li>
+</ul>
+<div class="tab-content">
+  <div ng:class="{true:'in active'}[$index==active]" ng-repeat="(language, translation) in data" id="{{ind}}{{language}}" class="tab-pane fade">
+    <textarea style="width:100%" ng-model="data[language]"></textarea>
+  </div>
+</div>
